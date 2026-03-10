@@ -127,7 +127,8 @@ L’accouchement ne s’achève réellement que vingt à trente minutes plus tar
 
 ### > **Wich\_character\_here**  
   - fra  
-  - Différents personnages en présence lors de l'accouchement :  
+  - Différents personnages en présence lors de l'accouchement :
+    - Enfant  
     - Accouchée  
     - Accouchant F  
     - Accouchant H  
