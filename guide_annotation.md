@@ -75,7 +75,7 @@ La layer est la couche/catégorie générale d’annotation.
 
 ### > **grossesse (granularité scène entière)**  
   -  span  
-  - Annotation des scènes d'accouchements : granularité niveau phrase  
+  - Annotation des mentions de la grossesse : granularité niveau phrase
   - granularity : sentence-level  
   - **overlap** : any
 
